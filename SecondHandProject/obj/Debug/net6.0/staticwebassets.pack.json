@@ -1,0 +1,37 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\Asp.net web api\\NewCource\\SecondHandProject\\wwwroot\\ItemImages\\18414d8a-76f3-4bd5-83ec-dc280478e24e.jpg",
+      "PackagePath": "staticwebassets\\ItemImages\\18414d8a-76f3-4bd5-83ec-dc280478e24e.jpg"
+    },
+    {
+      "Id": "E:\\Asp.net web api\\NewCource\\SecondHandProject\\wwwroot\\ItemImages\\64c9b573-0157-46ec-a7f3-83a7b0521aa3.jpg",
+      "PackagePath": "staticwebassets\\ItemImages\\64c9b573-0157-46ec-a7f3-83a7b0521aa3.jpg"
+    },
+    {
+      "Id": "E:\\Asp.net web api\\NewCource\\SecondHandProject\\wwwroot\\ItemImages\\9c3f35a8-014e-4b2b-842f-a389aca8b570.jpg",
+      "PackagePath": "staticwebassets\\ItemImages\\9c3f35a8-014e-4b2b-842f-a389aca8b570.jpg"
+    },
+    {
+      "Id": "E:\\Asp.net web api\\NewCource\\SecondHandProject\\wwwroot\\ProfileImages\\cde5515c-6380-4f16-ac17-6a815c6f1eea.jpg",
+      "PackagePath": "staticwebassets\\ProfileImages\\cde5515c-6380-4f16-ac17-6a815c6f1eea.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.SecondHandProject.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.SecondHandProject.props",
+      "PackagePath": "build\\SecondHandProject.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.SecondHandProject.props",
+      "PackagePath": "buildMultiTargeting\\SecondHandProject.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.SecondHandProject.props",
+      "PackagePath": "buildTransitive\\SecondHandProject.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

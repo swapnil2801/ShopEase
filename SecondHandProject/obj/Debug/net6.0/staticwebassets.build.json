@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "Hash": "a3K8MT8i6yT+vzNx1UCaV5E50AiYnYugsbo3aZ+ynog=",
+  "Source": "SecondHandProject",
+  "BasePath": "_content/SecondHandProject",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "SecondHandProject\\wwwroot",
+      "Source": "SecondHandProject",
+      "ContentRoot": "E:\\Asp.net web api\\NewCource\\SecondHandProject\\wwwroot\\",
+      "BasePath": "_content/SecondHandProject",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "E:\\Asp.net web api\\NewCource\\SecondHandProject\\wwwroot\\ItemImages\\18414d8a-76f3-4bd5-83ec-dc280478e24e.jpg",
+      "SourceId": "SecondHandProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Asp.net web api\\NewCource\\SecondHandProject\\wwwroot\\",
+      "BasePath": "_content/SecondHandProject",
+      "RelativePath": "ItemImages/18414d8a-76f3-4bd5-83ec-dc280478e24e.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\ItemImages\\18414d8a-76f3-4bd5-83ec-dc280478e24e.jpg"
+    },
+    {
+      "Identity": "E:\\Asp.net web api\\NewCource\\SecondHandProject\\wwwroot\\ItemImages\\64c9b573-0157-46ec-a7f3-83a7b0521aa3.jpg",
+      "SourceId": "SecondHandProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Asp.net web api\\NewCource\\SecondHandProject\\wwwroot\\",
+      "BasePath": "_content/SecondHandProject",
+      "RelativePath": "ItemImages/64c9b573-0157-46ec-a7f3-83a7b0521aa3.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\ItemImages\\64c9b573-0157-46ec-a7f3-83a7b0521aa3.jpg"
+    },
+    {
+      "Identity": "E:\\Asp.net web api\\NewCource\\SecondHandProject\\wwwroot\\ItemImages\\9c3f35a8-014e-4b2b-842f-a389aca8b570.jpg",
+      "SourceId": "SecondHandProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Asp.net web api\\NewCource\\SecondHandProject\\wwwroot\\",
+      "BasePath": "_content/SecondHandProject",
+      "RelativePath": "ItemImages/9c3f35a8-014e-4b2b-842f-a389aca8b570.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\ItemImages\\9c3f35a8-014e-4b2b-842f-a389aca8b570.jpg"
+    },
+    {
+      "Identity": "E:\\Asp.net web api\\NewCource\\SecondHandProject\\wwwroot\\ProfileImages\\cde5515c-6380-4f16-ac17-6a815c6f1eea.jpg",
+      "SourceId": "SecondHandProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Asp.net web api\\NewCource\\SecondHandProject\\wwwroot\\",
+      "BasePath": "_content/SecondHandProject",
+      "RelativePath": "ProfileImages/cde5515c-6380-4f16-ac17-6a815c6f1eea.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\ProfileImages\\cde5515c-6380-4f16-ac17-6a815c6f1eea.jpg"
+    }
+  ]
+}
